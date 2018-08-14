@@ -1,0 +1,4 @@
+Flask==1.0.2
+flask_restful==0.3.6
+psycopg2==2.7.5
+SQLAlchemy==1.2.10
